@@ -37,5 +37,10 @@ namespace Bonus3
                 return DataResult; //another method containing result and if guess is correct/how many tries it took
             }
         }
+        public static int DataResult(int y);
+        {
+            Random rnd = new Random();
+            int y 
+        }
     }
 }
